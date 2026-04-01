@@ -1,0 +1,1 @@
+CREATE INDEX idx_shop_id ON store_checks(shop_id) 
